@@ -1,0 +1,364 @@
+body {
+    background: aquamarine;
+    }
+
+#portrait {
+    position: absolute;
+    top: 500px;
+  left: 75px;  
+}
+
+#texto0 {
+    position: absolute;
+    top: 607px;
+    left: 35px;
+}
+
+#texto1 {
+    position: absolute;
+    top: 624px;
+    left: 43px; 
+}
+
+#acerca {
+    position: absolute;
+    top: 650px;
+    left: 250px;
+    }
+
+    #semblanza {
+        position: absolute;
+        top:680px;
+        left: 250px;
+        right: 20px;      
+        } 
+    
+        #expertise {
+            position: absolute;
+            top: 800px;
+            left: 22px;
+            display: block;
+                } 
+
+            #fcen {
+                margin-top: 20px;
+                position: absolute;
+                top: 850px;
+                left: 22px;
+                } 
+
+                #fcencar {
+                    position: absolute;
+                    top: 865px;
+                    left: 250px;
+                    right: 10px;
+                    }
+
+                    #fcen1{
+                        position: absolute;
+                        top: 890px;
+                        left: 252px;
+                        right: 10px;
+                        }
+                   
+                        #fcen2 {
+                            position: absolute;
+                            top: 918px;
+                            left: 250px;
+                            right: 10px;
+                            }
+
+                            #fcen3 {
+                                position: absolute;
+                                top: 948px;
+                                left: 250px;
+                                right: 10px;
+                                }
+
+                                #citefa {
+                                    position: absolute;
+                                    top: 1020px;
+                                    left: 22px;
+                                    } 
+
+                                    #citefacar {
+                                        position: absolute;
+                                        top: 1016px;
+                                        left: 250px;
+                                        }
+                                        
+                                        #citefa1 {
+                                            position: absolute;
+                                            top: 1044px;
+                                            left: 250px;
+                                            } 
+
+                                            #citefa2 {
+                                                position: absolute;
+                                                top: 1073px;
+                                                left: 250px;
+                                                }
+
+                                                #citefa3 {
+                                                    position: absolute;
+                                                    top: 1100px;
+                                                    left: 250px;
+                                                    }
+
+                                                    #vicrofer {
+                                                        position: absolute;
+                                                        top: 1170px;
+                                                        left: 22px;   
+                                                    }
+
+                                                    #vicrofercar {
+                                                        position: absolute;
+                                                        top: 1165px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #vicrofer1 {
+                                                        position: absolute;
+                                                        top: 1193px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #vicrofer2 {
+                                                        position: absolute;
+                                                        top: 1221px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #vicrofer3 {
+                                                        position: absolute;
+                                                        top: 1249px;
+                                                        left: 250px;   
+                                                    }
+                                                    
+
+                                                    #avon {
+                                                        position: absolute;
+                                                        top: 1320px;
+                                                        left: 22px;   
+                                                    }
+
+                                                    #avoncar {
+                                                        position: absolute;
+                                                        top: 1315px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #avon1 {
+                                                        position: absolute;
+                                                        top: 1340px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #avon2 {
+                                                        position: absolute;
+                                                        top: 1368px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #avon3 {
+                                                        position: absolute;
+                                                        top: 1396px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #acindar {
+                                                        position: absolute;
+                                                        top: 1470px;
+                                                        left: 22px;   
+                                                    }
+
+                                                    #acindarcar {
+                                                        position: absolute;
+                                                        top: 1465px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #acindar1 {
+                                                        position: absolute;
+                                                        top: 1490px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #acindar2 {
+                                                        position: absolute;
+                                                        top: 1518px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #acindar3 {
+                                                        position: absolute;
+                                                        top: 1546px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #mckee {
+                                                        position: absolute;
+                                                        top: 1620px;
+                                                        left: 22px;   
+                                                    }
+
+                                                    #mckeecar {
+                                                        position: absolute;
+                                                        top: 1615px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #mckee1 {
+                                                        position: absolute;
+                                                        top: 1640px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #mckee2 {
+                                                        position: absolute;
+                                                        top: 1668px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #mckee3 {
+                                                        position: absolute;
+                                                        top: 1696px;
+                                                        left: 250px;   
+                                                    }
+
+                                                    #education {
+                                                        position: absolute;
+                                                        top: 1760px;
+                                                        left: 22px;
+                                                        display: block;
+                                                                 }
+
+                                                                 #itba {
+                                                                    position: absolute;
+                                                                    top: 1833px;
+                                                                    left: 22px;
+                                                                    }
+
+                                                                    #itbacar {
+                                                                        position: absolute;
+                                                                        top: 1830px;
+                                                                        left: 250px;
+                                                                    }
+
+                                                                    #itba1 {
+                                                                        position: absolute;
+                                                                        top: 1875px;
+                                                                        left: 250px;
+                                                                    }
+                                                                 
+                                                                        #itba2 {
+                                                                            position: absolute;
+                                                                            top: 1915px;
+                                                                            left: 250px;
+                                                                        }
+
+                                                                        #uba {
+                                                                            position: absolute;
+                                                                            top: 1983px;
+                                                                            left: 22px;
+                                                                            } 
+
+                                                                            #ubacar {
+                                                                             position: absolute;
+                                                                             top: 1978px;
+                                                                             left: 250px;                                                                              
+                                                                            }
+
+                                                                            #uba1 {
+                                                                                position: absolute;
+                                                                                top: 2003px;
+                                                                                left: 250px;                                                                              
+                                                                               }
+
+                                                                               #uba2 {
+                                                                                position: absolute;
+                                                                                top: 2033px;
+                                                                                left: 250px;                                                                              
+                                                                               }
+
+                                                                               #uba3 {
+                                                                                position: absolute;
+                                                                                top: 2062px;
+                                                                                left: 250px;                                                                              
+                                                                               }
+
+                                                                               #cambridge {
+                                                                                position: absolute;
+                                                                                top: 2133px;
+                                                                                left: 22px;
+                                                                                } 
+    
+                                                                                #cambridgecar {
+                                                                                 position: absolute;
+                                                                                 top: 2128px;
+                                                                                 left: 250px;                                                                              
+                                                                                }
+    
+                                                                                #cambridge1 {
+                                                                                    position: absolute;
+                                                                                    top: 2153px;
+                                                                                    left: 250px;                                                                              
+                                                                                   }
+    
+                                                                                   #cambridge2 {
+                                                                                    position: absolute;
+                                                                                    top: 2181px;
+                                                                                    left: 250px;                                                                              
+                                                                                   }
+    
+                                                                                   #cambridge3 {
+                                                                                    position: absolute;
+                                                                                    top: 2209px;
+                                                                                    left: 250px;                                                                              
+                                                                                   }
+                                                                                
+                                                                                   #trainee {
+                                                                                    position: absolute;
+                                                                                    top: 2273px;
+                                                                                    left: 22px;                                                                                
+                                                                                   }
+                                                                               
+                                                                                   #site {
+                                                                                position:absolute;
+                                                                                top: 2346px;
+                                                                                left: 22px;                                                                                
+                                                                               }
+
+                                                                               .col-sm-3 {
+                                                                                padding-top: 2px;
+                                                                                padding-bottom: 1px;
+                                                                                background-color: rgba(39,41,43,0.03);
+                                                                                border: 3px solid rgba(190, 28, 44, 0.1);
+                                                                            }
+
+                                                                            #skills {
+                                                                                position: absolute;
+                                                                                top: 2980px;
+                                                                                left: 22px;
+                                                                            }
+
+                                                                            #hardskills {
+                                                                                position: absolute;
+                                                                                top: 3060px;
+                                                                                left: 12px;
+                                                                                text-align: center;
+                                                                            }
+
+                                                                               #projects {
+                                                                                position: absolute;
+                                                                                top: 3780px;
+                                                                                left: 12px;
+                                                                            }
+
+                                                                               #awards {
+                                                                                position: absolute;
+                                                                                top: 4520px;
+                                                                                left: 12px;
+                                                                               }
+
+                                                                              
