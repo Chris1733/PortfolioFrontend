@@ -1,0 +1,218 @@
+{
+    
+    "backImage1": "../assets/Imagen/Leyenda ARGENTINA PROGRAMA.png",
+    "backImage2": "../assets/Imagen/Yo Programo 3ra. Edición.png" ,
+    
+    "backImage3": "../assets/Imagen/Banner.png",
+    "backImage4": "../assets/Imagen/Foto Portfolio 0.png",
+    "name": "Cristián Alejandro Espósito",
+    "position": "Full Stack Developer Jr.",
+    "aboutMe": "Acerca de mí...",
+    "profile": "Soy  un  ingeniero  que  disfruta  aprender  y hacer cosas nuevas todos los días. Me encanta trabajar en proyecto, porque los desafíos me apasionan . Formé parte, y también tuve a mi cargo  equipos de  trabajo. Próximo  a  retirarme de mi trabajo actual, encuentro en  la carrera de desarrollador un  horizonte  donde  la  creatividad  y  el  ingenio  no  encuentran  límites  para  los que se interesan  en ella. Hablo inglés.",
+    
+    "expertise": "Experiencia profesional",
+    
+    "experience": [
+    {
+    "id00": "fcen",
+    "image": "../assets/Imagen/fcen.png",
+    "id01": "fcencar",
+    "descript0": " (2014 a hoy) HIGIENE Y SEGURIDAD EN EL TRABAJO (SECRETARÍA DE HÁBITAT)",
+    "id1": "fcen1",
+    "descript1": "Prevención  de  riesgos y enfermedades laborales en el personal de trabajadores y contratistas. ",
+    "id2": "fcen2",
+    "descript2": "Tareas de educación y capacitación al personal en materia de Higiene y Seguridad.",
+    "id3": "fcen3",
+    "descript3": "Control de Sistemas de Seguridad: Centrales de Alarmas&Intrusión, videocámaras, hidrantes, extintores."
+    },
+    {
+    "id00": "citefa", 
+    "image": "../assets/Imagen/CITEDEF.png",
+    "id01": "citefacar",
+    "descript0": " (2015-2016) ASESOR DE HIGIENE Y SEGURIDAD EN EL TRABAJO",
+    "id1": "citefa1",
+    "descript1": "Asesoramiento al Instituto en temáticas de Higiene y Seguridad.",
+    "id2": "citefa2",
+    "descript2": "Desarrollo de Sistema preventivo de mantenimiento y prueba de Central de Alarmas y periféricos.",
+    "id3": "citefa3",
+    "descript3": "Elaboración de un protocolo de ejecución de emergencias de evacuación del Instituto."
+    },
+    {
+    "id00": "vicrofer",     
+    "image": "../assets/Imagen/LogoVicro.png",
+    "id01": "vicrofercar",
+    "descript0": " (2011-2014) JEFE DE MANTENIMIENTO",
+    "id1": "vicrofer1",
+    "descript1": "Ejecución de mantenimientos preventivos y correctivos.",
+    "id2": "vicrofer2",
+    "descript2": "Asegurar disponibilidad y confiabilidad de equipamientos e instalaciones.",
+    "id3": "vicrofer3",
+    "descript3": "Soporte estratégico de diseño e implementación de proyectos sobre instalaciones y equipos."
+    },
+    {
+    "id00": "avon",     
+    "image": "../assets/Imagen/LogoAvon.png", 
+    "id01": "avoncar",
+    "descript0": " (1994) ANALISTA, (2000) JEFE, Y (2008-2010) GERENTE DE INGENIERÍA.",
+    "id1": "avon1",
+    "descript1": "Desarrollo e implementación de lay-outs y de remodelaciones de sectores.",
+    "id2": "avon2",
+    "descript2": "Gestión de mantenimientos y servicios del Facility",
+    "id3": "avon3",
+    "descript3": "Desarrollo de proyectos de instalaciones y equipamiento."
+    },
+    {
+    "id00": "acindar",     
+    "image": "../assets/Imagen/LogoAcindar.png", 
+    "id01": "acindarcar",
+    "descript0": " (1987) JEFE DE PRODUCCIÓN, (1988-1993) ANALISTA DE INGENIERÍA Y CONTROL.",
+    "id1": "acindar1",
+    "descript1": "Ejecución en tiempo y forma de las Órdenes de Fabricación en la línea Berg.",
+    "id2": "acindar2",
+    "descript2": "Estudios de métodos y tiempos. Cálculo de estándares.",
+    "id3": "acindar3",
+    "descript3": "Análisis de gestión de Área Fría: productividades y eficiencias. Costeo de productos."
+    },
+    {
+    "id00": "mckee",
+    "image": "../assets/Imagen/LogoMckee.png",
+    "id01": "mckeecar",  
+    "descript0": " (1986) INSPECTOR DE MONTAJE MECÁNICO DE CALDERA DE RECUPERACIÓN.",  
+    "id1": "mckee1",
+    "descript1": "Supervisión y control del montaje conforme a estándares y reglas del arte.",
+    "id2": "mckee2",
+    "descript2": "Intérprete del enviado canadiense por parte del fabricante de la Caldera.",
+    "id3": "mckee3",
+    "descript3": "Evaluación de los avances de montaje y concertación de las certificaciones con los contratistas." 
+    }
+    ],
+
+    "formerEducation": "Educación",
+
+    "education": [
+    {
+    "id00": "itba",
+    "image": "../assets/Imagen/ITBA.png",
+    "id01": "itbacar",
+    "descript0": " INSTITUTO TECNOLÓGICO DE BUENOS AIRES (ITBA)",
+    "id1": "itba1",
+    "descript1": "CARRERAS DE INGENIERÍA",
+    "id2": "itba2",
+    "descript2": "ORIENTACIÓN: MECÁNICA",
+    "id3": "itba3",
+    "descript3": "TÍTULO DE GRADO: INGENIERO MECÁNICO (1985)" 
+    },
+    {
+        "id00": "uba",
+        "image":"../assets/Imagen/UBA.png",
+        "id01": "ubacar",
+        "descript0":" FACULTAD DE CIENCIAS EXACTAS Y NATURALES (UBA)",
+        "id1": "uba1",
+        "descript1": "CARRERAS DE ESPECIALIZACIÓN",
+        "id2": "uba2",
+        "descript2":"HIGIENE Y SEGURIDAD",
+        "id3": "uba3",
+        "descript3": "POSTGRADO: ESPECIALISTA EN HIGIENE Y SEGURIDAD EN EL TRABAJO (2014)"
+    },
+    {
+        "id00": "cambridge",
+        "image":"../assets/Imagen/CAMBRIDGE.png",
+        "id01": "cambridgecar",
+        "descript0":" INSTITUTO CAMBRIDGE (CABA)",
+        "id1": "cambridge1",
+        "descript1": "ESTUDIOS SUPERIORES DE INGLÉS (1976)",
+        "id2": "cambridge2",
+        "descript2":"GRAMÁTICA INGLESA (1980)",
+        "id3": "cambridge3",
+        "descript3": "LITERATURA INGLESA (1981)"
+    }
+    ],
+
+    
+    "trainingstitle": "Capacitaciones&Cursos",
+       
+    "planning": "Planificación&Control",
+    "aa": "Arthur Andersen",
+    "fm": "Facility Management",
+    "ifir": "Institute For International Research",
+    "ppm": "Principios de Project Management",
+    "cfg": "Centro de Formación Gerencial",
+    "pjct": "Project",
+    "cgdo": "Curso gratuito digital online",     
+    "cad": "AutoCAD",
+    "glyptopubco": "Glyptodon Publishing Co.",
+    "kpi": "Índices de Productividad",
+    "kmi": "Indicadores de Mantenimiento",
+    "idea": "IDEA",
+    "geniman": "Generación de Índices de Mantención",
+    "servic": "SERVIC Ltda.",
+    "negocen": "Negociaciones centradas en el Manejo del Acuerdo",
+    "capavon": "Centro de Capacitación AVON",
+    "compycont": "Compras y Contrataciones",
+    "estrep": "Estrategias de Repuestos",
+    "mancenconf": "Mantenimiento centrado en la Confiabilidad",
+    "segelec": "Seguridad Eléctrica: Plantas y Edificios Industriales",
+    "forex": "Forum Executive",
+    "metytiemp": "Métodos y Tiempos (Estudio del Trabajo)",
+    "refa": "Organización REFA",
+    "lidef": "Liderazgo Efectivo",
+    "lidcambor": "Liderando el Cambio Organizacional",
+    "probytomdec": "Análisis de Problemas y Toma de Decisiones",
+    "intelemoc": "Inteligencia Emocional",
+    "relhum": "Relaciones Humanas",
+    "carnegiecenter": "Dale Carnegie Training Center",
+    "suiteoffice": "Word, Excel, PowerPoint",
+    
+    "skillstitle": "Competencias&Habilidades",
+
+    "hardskills": "Habilidades duras",
+    "backImage5": "../assets/Imagen/Cien.png",
+    "backImage6": "../assets/Imagen/Cien.png",
+    "backImage7": "../assets/Imagen/Noventa.png",
+    "methodology": "Pensamiento metodológico",
+    "readingcomprehension": "Comprensión lectora",
+    "englishknowledge": "Manejo de Inglés",
+
+    "softskills": "Habilidades blandas",
+    "backImage8": "../assets/Imagen/Noventa.png",
+    "backImage9": "../assets/Imagen/Noventa.png",
+    "backImage10":"../assets/Imagen/Cien.png",
+    "orientresults": "Orientación a Resultados",
+    "flexibility": "Adaptación al Cambio",
+    "involvment": "Involucramiento",
+
+    "achievements": "Algunos proyectos...", 
+
+    "image1": "../assets/Imagen/LogoPortfolio.png",
+    "descript01": " PORTFOLIO PERSONAL",
+    "descript11": "• MARCO CONTEXTUAL: Argentina Programa #3 (2022)",
+    "descript12": "• OBJETIVO: Desarrollo de Portfolio de aportación de datos curriculares",
+    "descript13": "• INVERSIÓN REALIZADA: U$S -------.", 
+
+    "image2": "../assets/Imagen/Autoelevadores.png",
+    "descript02": " GESTIÓN DE CREACIÓN DE PLANTEL DE AUTOELEVADORES CLASE EE",
+    "descript21": "• EMPRESA:  COSMÉTICOS AVON (2008)",
+    "descript22": "• OBJETIVO: Manipulación integral de Aerosoles.",
+    "descript23": "• INVERSIÓN REALIZADA: U$S 743.000.-", 
+
+    "image3": "../assets/Imagen/Edificio de Capacitacion.png",
+    "descript03": " DESARROLLO Y CONSTRUCCIÓN DE DOS EDIFICIOS DE CAPACITACIÓN.",
+    "descript31": "• EMPRESA:  COSMÉTICOS AVON (1997)",
+    "descript32": "• OBJETIVO: Gestación de ámbitos para la realización de Capacitaciones.",
+    "descript33": "• INVERSIÓN REALIZADA: U$S 422.130.-", 
+
+    "image4": "../assets/Imagen/AVON Beauty Center.png",
+    "descript04": " IMPLEMENTACIÓN Y PUESTA EN MARCHA DE BEAUTY CENTER PILOTO.",
+    "descript41": "• EMPRESA:  COSMÉTICOS AVON (1995)",
+    "descript42": "• OBJETIVO: Alternativa de ``Venta Directa´´ en SAN ISIDRO",
+    "descript43": "• INVERSIÓN REALIZADA: U$S 211.860.-",
+
+    "awards": "Reconocimientos&Distinciones (Cosméticos AVON)",
+
+    "image5": "../assets/Imagen/Awards.png",
+    "descript51": "• ``Business Transformation 2004´´: Desarrollo del Proyecto Batch Picking.",
+    "descript52": "• ``Business Transformation 2003´´: Desarrollo del Proyecto Outsourcing.",
+    "descript53": "• ``Being Best! 2002´´: Modernización de la Usina.",
+    "descript54": "• ``Being Best! 2000´´: Reorganización del Sector de Ingeniería de Planta." 
+   
+}  
