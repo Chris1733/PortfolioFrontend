@@ -1,0 +1,21 @@
+<section >
+
+    <h3 id="education">{{miPortfolio.formerEducation}}</h3>
+      
+  <ul>
+  <div *ngFor="let education of educationalList"> 
+    <img id="{{education.id00}}" [src]="education.image"  height="100" width="130">
+  
+  <aside>
+  <h5 id="{{education.id01}}">{{education.descript0}}</h5>
+   
+  <li id="{{education.id1}}">{{education.descript1}}</li>
+  <li id="{{education.id2}}">{{education.descript2}}</li>
+  <li id="{{education.id3}}">{{education.descript3}}</li>
+  
+  </aside>
+</div></ul>
+
+</section>
+
+

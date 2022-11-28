@@ -1,0 +1,32 @@
+<div >
+    <div class="container" >        
+        <div class="row">
+        <div class="col-sm-3 mt-1 ms-0 ps-0"> 
+        <div><img [src]="miPortfolio.backImage1" alt="Ícono oficial." height="50" width="235"></div></div>
+        <div class="col-sm-8 mt-3 pt-3 ps-0"> <img [src]="miPortfolio.backImage2" alt="Leyenda" height="25"></div>
+        <div class="col-sm-1 ms-0 ps-0 mt-2"><button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Login
+          </button><div class="dropdown-menu">
+            <form class="px-4 py-3">
+              <div class="mb-3">
+                <label for="exampleDropdownFormNombreDeUsuario" class="form-label">Nombre de Usuario</label>
+                <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="Nombre">
+              </div>
+              <div class="mb-3">
+                <label for="exampleDropdownFormContraseña" class="form-label">Contraseña</label>
+                <input type="contraseña" class="form-control" id="exampleDropdownFormContraseña" placeholder="Contraseña">
+              </div>
+              <div class="mb-3">
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                  <label class="form-check-label" for="dropdownCheck">
+                    Recordarme
+                  </label>
+                </div>
+              </div>
+              <button type="submit" class="btn btn-primary">Iniciar sesión</button>
+            </form>
+            <div class="dropdown-divider"></div>
+           
+            <a class="dropdown-item" href="#">¿Contraseña olvidada?</a>
+          </div></div> 

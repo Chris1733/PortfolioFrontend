@@ -1,0 +1,19 @@
+<section >
+
+    <h3 id="expertise">{{miPortfolio.expertise}}</h3>
+      
+  <ul>
+  <div *ngFor="let experience of experienceList"> 
+    <img id="{{experience.id00}}" [src]="experience.image" height="100" width="130">
+  
+  <aside>
+  <h5 id="{{experience.id01}}">{{experience.descript0}}</h5>
+   
+  <li id="{{experience.id1}}">{{experience.descript1}}</li>
+  <li id="{{experience.id2}}">{{experience.descript2}}</li>
+  <li id="{{experience.id3}}">{{experience.descript3}}</li>
+  
+  </aside>
+</div></ul>
+
+   </section>
